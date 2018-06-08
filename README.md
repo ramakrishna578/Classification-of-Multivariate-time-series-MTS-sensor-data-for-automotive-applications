@@ -1,0 +1,2 @@
+# Classification-of-Multivariate-time-series-MTS-sensor-data-for-automotive-applications
+Classification and clustering of multivariate time series sensor data collected from Automotive product testing phase. Developed models are used to validate the Automotive products before entering into the markets. Classification algorithms used are: K-Nearest neighbours and ANN. Clustering algorithms used are K-means and hierarchical clustering.
