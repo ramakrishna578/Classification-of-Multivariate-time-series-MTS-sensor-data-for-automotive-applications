@@ -1,0 +1,7 @@
+library(readr)
+m <- read.csv("C:/datascience/thesis/manipulateddata/maniplateddata/194/CAN_1/KDL1-RT23_A05_CAN1_000006.ame", header = T,"")
+par(mfrow = c(2,2))
+hist(m$I30.A.,xlab = "Current", main = "Current", axes = T)
+hist(m$Force.N.,xlab = "Force", main = "Force",axes = T)
+hist(m$Distance.mm.,xlab = "Distance", main = "Distance", axes = T)
+hist(m$U30.v.,xlab = "Voltage", main = "Voltage", axes = T)

@@ -1,0 +1,16 @@
+"Performance-Measure","FE(covar&E.D)-Classifier(ANN)","FE(covar)-Classifier(ANN)","FE(E.D)-Classifier(ANN)","FE(svd)-Classifier(ANN) Including Time variable","FE(svd)-Classifier(ANN) without Including Time variable","FE(svd)-Classifier(KNN) Including Time variable","FE(svd)-Classifier (KNN) without Including Time variable"
+"Precision",99.9,99.8,99.8,1,99.6,99.5,99.4
+"Recall",99.4,99.0,98.9,1,97.1,98.1,98.1
+"F-measure",99.7,99.4,99.3,1,98.3,98.8,98.8
+"Sensitivity",99.4,99.0,98.9,1,97.1,98.1,98.1
+"Specificity",99.5,98.1,98.2,1,95.8,95.7,94.8
+"Accuracy",99.5,99.06,98.84,1,97.04,97.8,97.8
+
+
+
+
+
+
+
+
+
